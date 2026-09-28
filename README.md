@@ -1,2 +1,2 @@
-# HTML Starting Week 1
-For HTML, CSS and JS intro class.
+HTML CLASS
+For where and when I submit my assignments.
